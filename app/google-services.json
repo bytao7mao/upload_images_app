@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "111049034936",
+    "firebase_url": "https://uploadimagesapp.firebaseio.com",
+    "project_id": "uploadimagesapp",
+    "storage_bucket": "uploadimagesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111049034936:android:5ebadf7508d314f9",
+        "android_client_info": {
+          "package_name": "com.example.taolen.uploadimagesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111049034936-abhuig83mhdhusop46m0kgscasj281g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrEEQ9_FvYj9LFbiSY15O4Hx4YXMGdJ8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
